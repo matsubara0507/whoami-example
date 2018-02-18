@@ -1,0 +1,4 @@
+resolver: lts-10.5
+extra-deps:
+- git: https://github.com/matsubara0507/whoami.git
+  commit: 04f912422958388a5b2a1d0f84cda6535695f4bf
