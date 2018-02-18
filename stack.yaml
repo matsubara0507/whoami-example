@@ -2,3 +2,5 @@ resolver: lts-10.5
 extra-deps:
 - git: https://github.com/matsubara0507/whoami.git
   commit: 04f912422958388a5b2a1d0f84cda6535695f4bf
+- git: https://github.com/matsubara0507/extensible-instances.git
+  commit: a9b50cc3170c72ac0b6cacc4b3fc16cbbba0a7db
