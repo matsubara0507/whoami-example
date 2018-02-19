@@ -21,6 +21,8 @@
 ## Applications
 - [AnaQRam](http://github.com/matsubara0507/AnaQRam)
     - QRコードを利用したアナグラム(並び替えパズル)
+- [timeout-sesstype-cli](https://github.com/matsubara0507/timeout-sesstype.hs)
+    - 修論で定義した疑似言語のCLI
 
 ## Libraries
 - [chatwork](http://hackage.haskell.org/package/chatwork)
